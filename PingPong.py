@@ -4,7 +4,7 @@ import random
 pygame.init()
 
 gadget_pair = 1
-ch  = input("Enter your choice for gadget pair")
+ch  = input("Enter your choice for gadget pair ")
 if ch == '1':
     gadget_pair = 1
 elif ch == '2':
